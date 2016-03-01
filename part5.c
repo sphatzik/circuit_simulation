@@ -2,8 +2,8 @@
 //  parser.c
 //  
 //
-//  Created by Spiros Chatzikotoulas AEM:300 sphatzik@inf.uth.gr
-//  and Dimitris Kalfountzos AEM:485 dikalfou@inf.uth.gr
+//  Created by Spiros Chatzikotoulas 
+//  and Dimitris Kalfountzos 
 //
 
 #include <stdio.h>
